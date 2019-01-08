@@ -101,7 +101,7 @@ publications:
     title: Publications
     
     papers:
-      - title: mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering
+      - title: "mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering"
         authors: Hyejin Kang, Honhryul Ahn, Kyuri Jo, Minsik Oh and Sun Kim
         conference: GIW 2018. Accepted.
 
