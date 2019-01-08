@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Minsik Oh
-    tagline: CS, Bioinformatics
+    tagline: Computer Science, Bioinformatics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: noalcohol[at]snu.ac.kr
     phone: 
-    linkedin: https://www.linkedin.com/in/minsik-oh-72225a152/
+    linkedin: minsik-oh-72225a152
     github: minsik-bioinfo
     
 
