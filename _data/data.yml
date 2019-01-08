@@ -34,32 +34,24 @@ education:
     - degree: Ph.D Cadidate in Computer Science
       university: Seoul National Universitydd
       time: 2015-
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
     - degree: BSc in Computer Science
       university: Seoul National University
       time: 2011 - 2015
 awards:
-    - title: Excellent Dissertation Award
-      organization: Life Science department, Seoul National University
-      time: Aug. 2017
+    - title: KaKao Code Festival 5th grade
+      organization: KaKao
+      time: Oct. 2017
+    - title: ACM-ICPC Asia Daejeon Rdgional Contest 7th grade
+      organization: ACM-ICPC
+      time: Nov. 2013
       details: |
-        Thesis title: "Clustering methods and approaches for the integrated analysis of protein coding and non-coding transcripts"
-    - title: Outstanding Paper Award
-      organization: 한국생명정보학회, Korean Society of Bioinformatics (KSBi)
-      time: Nov. 2017
+        Team name: Doodoomchit
+    - title: ACM-ICPC Asia Daejeon Regional Contest 5th grade
+      organization: ACM-ICPC
+      time: Nov. 2012
       details: |
-        Paper title: "TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes."
-    - title: Participation Award
-      organization: IEEE
-      time: Oct. 2012
-      details: |
-        Award title: Participation Award for taking role in the publication of IEEE Std 802.16p-2012 and 802.16.1b-2012
+        Team name : MinsikLove
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -157,13 +149,13 @@ skills:
 
     toolset:
       - name: C / C ++
-        level: 90%
+        level: 60%
 
       - name: Python
-        level: 90%
+        level: 40%
 
       - name: Data structure / Algorithm
-        level: 90%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
