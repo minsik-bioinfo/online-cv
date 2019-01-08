@@ -22,7 +22,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm currently Ph.D Candidate student in Seoul National University.
+      I'm currently Ph.D Candidate student in Seoul National University. 
 
 education:
     - degree: Ph.D Cadidate in Computer Science
@@ -112,7 +112,7 @@ publications:
         authors: Sehi L'Yi, Daekyoung Jung, Minsik Oh, Bohyoung Kim, Robert J Freishtat, Mamta Giri, Eric Hoffman and Jinwook Seo
         conference: "Methods, 124, 2017"
       - title: "Literature-based condition-specific miRNA-mRNA target prediction"
-        authors: Minsik Oh ,Sungmin Rhee,Ji Hwan Moon, Heejoon Chae Sunwon Lee, Jaewoo Kang and Sun Kim
+        authors: Minsik Oh, Sungmin Rhee, Ji Hwan Moon, Heejoon Chae, Sunwon Lee, Jaewoo Kang and Sun Kim
         conference: "PloS one, 12(3), 2017"
       - title: "BioVLAB- Cloud-based Bioinformatics Analysis Workbench"
         authors: "서석준, 오민식, 정인욱, 채희준, 김선"
@@ -124,13 +124,13 @@ skills:
 
     toolset:
       - name: C / C++ 
-        level: 60%
+        level: 70%
 
       - name: Python
-        level: 40%
+        level: 60%
 
       - name: Data structure / Algorithm
-        level: 70%
+        level: 90%
 
 footer: >
   
