@@ -20,9 +20,10 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Introduce
     summary: |
-      I'm currently Ph.D Candidate student in Seoul National University. 
+      I'm currently Ph.D Candidate student in Seoul National University. <br>
+      Bio and Health Informatics Lab.
 
 education:
     - degree: Ph.D Cadidate in Computer Science
@@ -128,7 +129,8 @@ skills:
 
       - name: Python
         level: 60%
-
+      - name: Machine Learning / Data Mining
+        level : 60%
       - name: Data structure / Algorithm
         level: 90%
         
