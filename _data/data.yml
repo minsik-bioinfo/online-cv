@@ -101,17 +101,23 @@ publications:
     title: Publications
     
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering
+        authors: Hyejin Kang, Honhryul Ahn, Kyuri Jo, Minsik Oh and Sun Kim
+        conference: GIW 2018. Accepted.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "DeepFam: deep learning based alignment-free method for protein family modeling and prediction"
+        authors: Seokjun Seo, Minsik Oh, Youngjune Park and Sun Kim
+        conference: "Bioinformatics, 34(13), 2018"
+      - title: "miRTarVis+: Web-based interactive visual analytics tool for microRNA target predictions"
+        authors: Sehi L'Yi, Daekyoung Jung, Minsik Oh, Bohyoung Kim, Robert J Freishtat, Mamta Giri, Eric Hoffman and Jinwook Seo
+        conference: "Methods, 124, 2017"
+      - title: "Literature-based condition-specific miRNA-mRNA target prediction"
+        authors: Minsik Oh ,Sungmin Rhee,Ji Hwan Moon, Heejoon Chae Sunwon Lee, Jaewoo Kang and Sun Kim
+        conference: "PloS one, 12(3), 2017"
+      - title: "BioVLAB- Cloud-based Bioinformatics Analysis Workbench"
+        authors: "서석준, 오민식, 정인욱, 채희준, 김선"
+        conference: "한국정보과학회, 정보과학회논문지, 31(3), 2013"
+        link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02112438?TotalCount=941&Seq=13&q=(%5B%EC%83%9D%EB%AC%BC%20%EC%A0%95%EB%B3%B4%20%3B%20%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D)&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%83%9D%EB%AC%BC%20%EC%A0%95%EB%B3%B4%20%3B%20%5E*&searchWordCondition=%EC%9E%90%EB%A3%8C%EC%9C%A0%ED%98%95%3D%5E%24%EC%A0%84%EC%B2%B4%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&isFullText=0&specificParam=0&SearchMethod=2&SearchOper=System.Int32%5B%5D&SearchKeyword=System.String%5B%5D&SearchOption=System.Int32%5B%5D&Category=002008&PublishDate=11&Sort=1&SortType=desc&Page=1&PageSize=20"
 
 skills:
     title: Skills &amp; Proficiency
