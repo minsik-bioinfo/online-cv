@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Minsik Oh
@@ -45,9 +45,21 @@ education:
       university: Seoul National University
       time: 2011 - 2015
 awards:
-    title: test
-    intro : |
-        test 
+    - title: Excellent Dissertation Award
+      organization: Life Science department, Seoul National University
+      time: Aug. 2017
+      details: |
+        Thesis title: "Clustering methods and approaches for the integrated analysis of protein coding and non-coding transcripts"
+    - title: Outstanding Paper Award
+      organization: 한국생명정보학회, Korean Society of Bioinformatics (KSBi)
+      time: Nov. 2017
+      details: |
+        Paper title: "TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes."
+    - title: Participation Award
+      organization: IEEE
+      time: Oct. 2012
+      details: |
+        Award title: Participation Award for taking role in the publication of IEEE Std 802.16p-2012 and 802.16.1b-2012
 experiences:
     - role: Lead Developer
       time: 2015 - Present
