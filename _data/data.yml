@@ -44,7 +44,10 @@ education:
     - degree: BSc in Computer Science
       university: Seoul National University
       time: 2011 - 2015
-     
+awards:
+    title: test
+    intro : |
+        test 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -88,10 +91,7 @@ experiences:
 
           - Bullet point
           - Bullet point
-awards:
-    title: test
-    intro : |
-        test
+
 projects:
     title: Projects
     intro: >
