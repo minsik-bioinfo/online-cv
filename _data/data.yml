@@ -42,15 +42,19 @@ awards:
     - title: KaKao Code Festival 5th grade
       organization: KaKao
       time: Oct. 2017
-    - title: ACM-ICPC Asia Daejeon Rdgional Contest 7th grade
+      details: |
+        2017 - KaKao Code Festival
+    - title: 7th grade
       organization: ACM-ICPC
       time: Nov. 2013
       details: |
+        The 2013 ACM-ICPC Asia Daejeon Rdgional Contest 
         Team name: Doodoomchit
-    - title: ACM-ICPC Asia Daejeon Regional Contest 5th grade
+    - title: 5th grade
       organization: ACM-ICPC
       time: Nov. 2012
       details: |
+        The 2012 ACM-ICPC Asia Daejeon Regional Contest 
         Team name : MinsikLove
 experiences:
     - role: Lead Developer
