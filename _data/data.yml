@@ -15,9 +15,16 @@ sidebar:
     email: noalcohol[at]snu.ac.kr
     phone: 
     linkedin: minsik-oh-72225a152
-    github: minsik-bioinfo
-    hobby: Basketball, Badminton, Coffee    
+    github: minsik-bioinfo 
+    interests:
+      - item: Basketball
+        link:
 
+      - item: Badminton
+        link:
+
+      - item: Coffee
+        link:
 
 career-profile:
     title: Introduce
