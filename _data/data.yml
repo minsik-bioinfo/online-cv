@@ -113,7 +113,7 @@ publications:
     papers:
       - title: "mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering"
         authors: Hyejin Kang, Honhryul Ahn, Kyuri Jo, Minsik Oh and Sun Kim
-        conference: GIW 2018. Accepted.
+        conference: Bioinformatics. 2019 May 9.
 
       - title: "DeepFam: deep learning based alignment-free method for protein family modeling and prediction"
         authors: Seokjun Seo, Minsik Oh, Youngjune Park and Sun Kim
