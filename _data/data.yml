@@ -111,6 +111,10 @@ publications:
     title: Publications
     
     papers:
+      - title: "Machine learning-based analysis of multi-omics data on the cloud for investigating gene regulations"
+        authors: Minsik Oh, Sungjoon Park, Sun Kim and Heejoon Chae
+        conference: Briefings in Bioinformatics. 2020 March 30.
+
       - title: "mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering"
         authors: Hyejin Kang, Honhryul Ahn, Kyuri Jo, Minsik Oh and Sun Kim
         conference: Bioinformatics. 2019 May 9.
@@ -123,7 +127,7 @@ publications:
         conference: "Methods, 124, 2017"
       - title: "Literature-based condition-specific miRNA-mRNA target prediction"
         authors: Minsik Oh, Sungmin Rhee, Ji Hwan Moon, Heejoon Chae, Sunwon Lee, Jaewoo Kang and Sun Kim
-        conference: "PloS one, 12(3), 2017"
+        journal: "PloS one, 12(3), 2017"
       - title: "BioVLAB- Cloud-based Bioinformatics Analysis Workbench"
         authors: "서석준, 오민식, 정인욱, 채희준, 김선"
         conference: "한국정보과학회, 정보과학회논문지, 31(3), 2013"
