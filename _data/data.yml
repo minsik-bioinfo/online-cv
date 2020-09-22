@@ -111,6 +111,9 @@ publications:
     title: Publications
     
     papers:
+      - title: "DRIM: A web-based system for investigating drug response at the molecular level by condition-specific multi-omics data integration"
+        authors: Minsik Oh, Sungjoon Park, Sangseon Lee, Dohoon Lee, Sangsoo Lim, Dabin Jeong, Kyuri Jo, Inuk Jung and Sun Kim
+        conference: Frontiers in Genetics 11, 1053, 2020
       - title: "Machine learning-based analysis of multi-omics data on the cloud for investigating gene regulations"
         authors: Minsik Oh, Sungjoon Park, Sun Kim and Heejoon Chae
         conference: Briefings in Bioinformatics. 2020 March 30.
