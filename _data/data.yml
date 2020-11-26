@@ -43,6 +43,11 @@ education:
       university: Seoul National University
       time: 2011 - 2015
 awards:
+    - title: Outstanding Abstract Session
+      organization : 46th Annual Meeting of Korean Cancer Association & 6th International Cancer Conference
+      time: Nov. 2020
+      details: |
+         Abstract Title: nvestigating personalized cancer drug response at the molecular level using DRIM, a web-based integrative system.
     - title: 5th place
       organization: KaKao
       time: Oct. 2017
