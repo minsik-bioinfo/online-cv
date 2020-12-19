@@ -31,8 +31,10 @@ sidebar:
 career-profile:
     title: Introduce
     summary: |
-      I'm currently Ph.D Candidate student in Seoul National University. <br>
-      Bio and Health Informatics Lab.
+      I’m currently Ph.D. candidate student at Bio and Health Informatics Lab in Seoul National University. 
+      My research area is a multi-omics integrative analysis that has a high dimension and complex relationship. 
+      I have focused on developing a multi-omics integration algorithm and tools using machine learning, network analysis, and causal inference to investigate gene regulation mechanisms.<br>
+      
 
 education:
     - degree: Ph.D Cadidate in Computer Science
