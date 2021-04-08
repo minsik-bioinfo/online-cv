@@ -121,12 +121,16 @@ publications:
     title: Publications
     
     papers:
+      - title: "Construction of Condition-Specific Gene Regulatory Network using Kernel Canonical Correlation Analysis"
+        authors: Dabin Jeong, Sangsoo Lim, Sangseon Lee, Minsik Oh, Changyun Cho, Hyeju Seong, Woosuk Jung and Sun Kim
+        conference: Frontiers in Genetics 12, 572, 2021
+      - title: "Machine learning-based analysis of multi-omics data on the cloud for investigating gene regulations"
+        authors: Minsik Oh, Sungjoon Park, Sun Kim and Heejoon Chae
+        conference: Briefings in Bioinformatics, 22(1), 66-76.
       - title: "DRIM: A web-based system for investigating drug response at the molecular level by condition-specific multi-omics data integration"
         authors: Minsik Oh, Sungjoon Park, Sangseon Lee, Dohoon Lee, Sangsoo Lim, Dabin Jeong, Kyuri Jo, Inuk Jung and Sun Kim
         conference: Frontiers in Genetics 11, 1053, 2020
-      - title: "Machine learning-based analysis of multi-omics data on the cloud for investigating gene regulations"
-        authors: Minsik Oh, Sungjoon Park, Sun Kim and Heejoon Chae
-        conference: Briefings in Bioinformatics. 2020 March 30.
+      
 
       - title: "mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering"
         authors: Hyejin Kang, Honhryul Ahn, Kyuri Jo, Minsik Oh and Sun Kim
